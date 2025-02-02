@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danilovich4.github.io/pagina-web-traduccion/sitemap.xml
