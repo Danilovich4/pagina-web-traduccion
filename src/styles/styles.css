@@ -1,0 +1,68 @@
+/* Aplicamos un fondo claro y cambiamos la fuente */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilizamos el título principal */
+h1 {
+    color: #0077cc;
+    font-size: 2.5em;
+}
+
+/* Estilizamos el subtítulo */
+h2 {
+    color: #005fa3;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+/* Estilizamos el párrafo */
+p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+form {
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+button {
+    background-color: #0077cc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
